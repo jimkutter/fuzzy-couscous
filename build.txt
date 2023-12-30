@@ -1,0 +1,3 @@
+displayName = Basic Time Stop
+author = rwg1138@gmail.com
+version = 0.1

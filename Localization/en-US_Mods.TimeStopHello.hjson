@@ -1,0 +1,11 @@
+Items: {
+	ExampleStand: {
+		DisplayName: Example Stand
+		Tooltip: ""
+	}
+
+	StandArrow: {
+		DisplayName: Stand Arrow
+		Tooltip: ""
+	}
+}
