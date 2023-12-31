@@ -8,4 +8,18 @@ Items: {
 		DisplayName: Stand Arrow
 		Tooltip: ""
 	}
+
+	StandArrowItem: {
+		DisplayName: Stand Arrow Item
+		Tooltip: ""
+	}
 }
+
+Buffs: {
+	TimeStopBuff: {
+		DisplayName: Time Stop Buff
+		Description: Mods.TimeStopHello.Buffs.TimeStopBuff.Description
+	}
+}
+
+Projectiles.TimeStopStand.DisplayName: Time Stop Stand
